@@ -70,5 +70,5 @@ It includes:
 ---
 
 <div align="center">
-  <sub>Building technology to grow a more sustainable future. 🌱</sub>
+  <sub>Building technology to grow a more sustainable future.</sub>
 </div>
